@@ -1,0 +1,7 @@
+{
+  "admin_key": {"testa1": true, "testa2": true},
+  "user_key": {"testu1": true, "testu2": true},
+  "guest_key": {"testg1": true, "testg2": true},
+  "validation_strictness": "normal",
+  "blacklist_patterns": ["00000000", "FFFFFFFF"]
+}
